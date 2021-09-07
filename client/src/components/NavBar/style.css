@@ -1,0 +1,38 @@
+.header{
+    background-color: rgb(51, 50, 50);
+    height: 12vh;
+    text-align: center;
+}
+
+ .nav-text{
+     position: relative;
+    color:beige;
+
+}
+.nav-item {
+    position: relative;
+    color:beige;
+}
+
+a {
+    color:beige;
+    position: relative;
+    font-size: x-large;
+}
+
+.search-link{
+    position:relative;
+    top: 8px;
+}
+
+@media screen and (max-width: 670px) {
+    .search-link{
+    font-size: medium;
+    position: static;
+    }
+ .saved-link{
+     position:relative;
+     left: 190px;
+     top:-45px;
+ }
+}

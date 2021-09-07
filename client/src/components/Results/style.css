@@ -1,0 +1,21 @@
+.card{
+    background-color: beige;
+}
+
+p{
+    font-size: large;
+}
+
+a{
+    position: relative;
+    top: 0.025em;
+}
+
+h1{
+    color: beige;
+}
+
+.result-box{
+    
+  background-image: none;
+}
