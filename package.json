@@ -10,7 +10,7 @@
     "seed": "node scripts/seedDB.js",
     "install": "cd client && npm install",
     "build": "cd client && npm run build"
-    // "heroku-postbuild": "npm run build"
+    
   },
   "devDependencies": {
     "concurrently": "^4.1.2",
