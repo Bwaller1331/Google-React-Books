@@ -10,9 +10,9 @@
 
 ## Technologies Used
 
-  - MongoDB  - ![mongodb](client/src/assets/mongodbLogo.png)
+  - MongoDB 
   - Express
-  - React    ![React](client/src/asstets/react-logo.png)
+  - React
   - NodeJs
   - React-Router
   - Google Books API
