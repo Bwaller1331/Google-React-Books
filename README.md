@@ -1,11 +1,25 @@
 # React Google Books Search
 
 ## Table of Contents
+  - [Technologies](#technologies-used)
   - [Description](#description)
   - [Deployed Site](#deployed-site)
   - [Installation](#installation)
   - [Usage](#usage)
   - [License](#license)
+
+## Technologies Used
+
+  - MongoDB  - ![mongodb](client/src/assets/mongodbLogo.png)
+  - Express
+  - React    ![React](client/src/asstets/react-logo.png)
+  - NodeJs
+  - React-Router
+  - Google Books API
+  - Axios
+  - Mongoose
+  - Bootstrap
+
 
 ## Description
 Google Books Search app that displays books based on user inputs, the user can then choose to view the Google Books page for that book or save the book for later.
