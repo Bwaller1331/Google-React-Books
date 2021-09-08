@@ -23,7 +23,7 @@
 
 ## Description
 Google Books Search app that displays books based on user inputs, the user can then choose to view the Google Books page for that book or save the book for later.
-Saved books are then displayed on the Saved Books page where you can unsave or view the books Google Books page
+Saved books are then displayed on the Saved Books page where you can unsave or view the book's Google Books page.
 
 ## Deployed Site
 
