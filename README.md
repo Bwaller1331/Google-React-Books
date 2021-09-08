@@ -2,7 +2,7 @@
 
 ## Table of Contents
   - [Description](#description)
-  - [Deployed Site](##deployed-site)
+  - [Deployed Site](#deployed-site)
   - [Installation](#installation)
   - [Usage](#usage)
   - [License](#license)
