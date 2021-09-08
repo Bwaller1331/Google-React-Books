@@ -12,7 +12,7 @@ Google Books Search app that displays books based on user inputs, the user can t
 Saved books are then displayed on the Saved Books page where you can unsave or view the books Google Books page
 
 ## Deployed Site
-[Click Here to the Deployed App With Heroku](https://react-app-google-books-13.herokuapp.com/)
+[Click Here to view the Deployed App With Heroku](https://react-app-google-books-13.herokuapp.com/)
 ![Home](client/src/assets/reactHomePage.png)
 ![Saved](client/src/assets/reactSavedBooks.png)
 
