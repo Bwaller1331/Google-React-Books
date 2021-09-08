@@ -1,11 +1,11 @@
 # React Google Books Search
 
 ## Table of Contents
-  - [Description](#Description)
-  - [Deployed Site](##DeployedSite)
-  - [Installation](#Installation)
-  - [Usage](#Usage)
-  - [License](#License)
+  - [Description](#description)
+  - [Deployed Site](##deployed-site)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [License](#license)
 
 ## Description
 Google Books Search app that displays books based on user inputs, the user can then choose to view the Google Books page for that book or save the book for later.
