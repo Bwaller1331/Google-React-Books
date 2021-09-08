@@ -1,18 +1,32 @@
 # React Google Books Search
 
 ## Table of Contents
-  - [Description](#Description)
-  - [Deployed Site](##DeployedSite)
-  - [Installation](#Installation)
-  - [Usage](#Usage)
-  - [License](#License)
+  - [Technologies](#technologies-used)
+  - [Description](#description)
+  - [Deployed Site](#deployed-site)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [License](#license)
+
+## Technologies Used
+
+  - MongoDB  - ![mongodb](client/src/assets/mongodbLogo.png)
+  - Express
+  - React    ![React](client/src/asstets/react-logo.png)
+  - NodeJs
+  - React-Router
+  - Google Books API
+  - Axios
+  - Mongoose
+  - Bootstrap
+
 
 ## Description
 Google Books Search app that displays books based on user inputs, the user can then choose to view the Google Books page for that book or save the book for later.
 Saved books are then displayed on the Saved Books page where you can unsave or view the books Google Books page
 
 ## Deployed Site
-[Click Here to the Deployed App With Heroku](https://react-app-google-books-13.herokuapp.com/)
+[Click Here to view the Deployed App With Heroku](https://react-app-google-books-13.herokuapp.com/)
 ![Home](client/src/assets/reactHomePage.png)
 ![Saved](client/src/assets/reactSavedBooks.png)
 
