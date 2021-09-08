@@ -12,7 +12,7 @@
 
   - MongoDB  - ![mongodb](client/src/assets/mongodbLogo.png)
   - Express
-  - React    ![React](client/src/asstets/react-logo.png)
+  - React    ![React](client/src/assets/react-logo.png)
   - NodeJs
   - React-Router
   - Google Books API
